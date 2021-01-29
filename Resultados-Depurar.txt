@@ -1,0 +1,21 @@
+﻿'52.exe' (Win32): 'D:\Desktop\Escuela\Visual\52\Debug\52.exe' cargado. Símbolos cargados.
+'52.exe' (Win32): 'C:\Windows\SysWOW64\ntdll.dll' cargado. 
+'52.exe' (Win32): 'C:\Windows\SysWOW64\kernel32.dll' cargado. 
+'52.exe' (Win32): 'C:\Windows\SysWOW64\KernelBase.dll' cargado. 
+'52.exe' (Win32): 'C:\Windows\SysWOW64\msvcp140d.dll' cargado. 
+'52.exe' (Win32): 'C:\Windows\SysWOW64\vcruntime140d.dll' cargado. 
+'52.exe' (Win32): 'C:\Windows\SysWOW64\ucrtbased.dll' cargado. 
+El subproceso 0x4ca8 terminó con código 0 (0x0).
+'52.exe' (Win32): 'C:\Windows\SysWOW64\sechost.dll' cargado. 
+'52.exe' (Win32): 'C:\Windows\SysWOW64\rpcrt4.dll' cargado. 
+'52.exe' (Win32): 'C:\Windows\SysWOW64\sspicli.dll' cargado. 
+'52.exe' (Win32): 'C:\Windows\SysWOW64\cryptbase.dll' cargado. 
+'52.exe' (Win32): 'C:\Windows\SysWOW64\bcryptprimitives.dll' cargado. 
+El subproceso 0x5210 terminó con código 0 (0x0).
+El subproceso 0x5010 terminó con código 0 (0x0).
+El subproceso 0x2a40 terminó con código 0 (0x0).
+'52.exe' (Win32): 'C:\Windows\SysWOW64\kernel.appcore.dll' cargado. 
+'52.exe' (Win32): 'C:\Windows\SysWOW64\msvcrt.dll' cargado. 
+El subproceso 0x24cc terminó con código 0 (0x0).
+El subproceso 0xbb0 terminó con código 0 (0x0).
+El programa '[6400] 52.exe' terminó con código 0 (0x0).
